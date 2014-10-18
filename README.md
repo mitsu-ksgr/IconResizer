@@ -18,4 +18,4 @@ $ pip install pillow
 $ ./icon_resizer.py ./path/to/icon_file.png
 >>> Genereate to currrent directory.
 
-dd```
+```
